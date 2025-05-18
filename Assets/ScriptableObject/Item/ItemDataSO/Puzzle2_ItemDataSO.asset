@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da40ce32b6fe53b4db09e42cbec16146, type: 3}
+  m_Name: Puzzle2_ItemDataSO
+  m_EditorClassIdentifier: 
+  ItemID: Puzzle2
+  ItemName: "\u8A18\u61B6\u306E\u6B20\u7247"
+  Description: "\u300E\u8A18\u61B6\u300F\u306E\u4E00\u90E8\u3001\u697D\u3057\u3044\u601D\u3044\u51FA"
+  Icon: {fileID: -377159212, guid: 65489ee590d4c424ead507b1cd400b79, type: 3}
+  IsPuzzle: 1
+  PuzzlePrefab: {fileID: 3958124582475588574, guid: 78d5281ba9d8437409ba7addd9800ed9,
+    type: 3}
+  Ability: {fileID: 0}
+  ItemCountState: {fileID: 11400000, guid: e7554b5fdf5b07a4899c2a920658820e, type: 2}
+  IsStackable: 0
+  IsCollectionItem: 0
+  count: 0

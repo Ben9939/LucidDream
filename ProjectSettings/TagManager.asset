@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hero
+  - Enemy
+  - OutLine
+  - Dead
+  - Tips
+  - Hint
+  - Bag
+  - RoomObject
+  - Workbench
+  - DialogUIContainer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 3DObjects
+  - SolidObjects
+  - Interactable
+  - SceneBounds
+  - Obstacle
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2425651459
+    locked: 0
+  - name: Foreground
+    uniqueID: 4250941897
+    locked: 0
+  - name: player+npc
+    uniqueID: 2495371119
+    locked: 0
+  - name: Blank
+    uniqueID: 373740823
+    locked: 0
+  - name: HandUpCanvas
+    uniqueID: 1167017117
+    locked: 0
+  - name: OutLine
+    uniqueID: 2532561647
+    locked: 0
+  - name: Player
+    uniqueID: 4189426099
+    locked: 0
+  - name: Npc
+    uniqueID: 3454356531
+    locked: 0
+  - name: Effects
+    uniqueID: 132010277
+    locked: 0
+  - name: MagicPanel
+    uniqueID: 698090669
+    locked: 0
+  - name: UI
+    uniqueID: 1139991813
+    locked: 0
+  - name: LoadingUI
+    uniqueID: 1504453793
+    locked: 0
+  - name: PlyerState
+    uniqueID: 3485819765
+    locked: 0
+  - name: TVFrame
+    uniqueID: 2815358115
+    locked: 0

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 995e5f96016580b409a65d3f776e1eae, type: 3}
+  m_Name: CreditData
+  m_EditorClassIdentifier: 
+  sections:
+  - sectionTitle: "\u3010\u4F7F\u7528\u7D20\u6750\u3011"
+    creditItems: []
+  - sectionTitle: "\u2015\u2015\u2015\u2015\u2015 \u30D5\u30A9\u30F3\u30C8 \u2015\u2015\u2015\u2015\u2015"
+    creditItems:
+    - creditText: Cubic-11
+      characterPortrait: {fileID: 0}
+  - sectionTitle: "\u2015\u2015\u2015\u2015\u2015 BGM / SE \u2015\u2015\u2015\u2015\u2015"
+    creditItems:
+    - creditText: "\u3073\u305F\u3061\u30FC\u7D20\u6750\u9928"
+      characterPortrait: {fileID: 0}
+    - creditText: seadenden
+      characterPortrait: {fileID: 0}
+    - creditText: "\u52B9\u679C\u97F3\u30E9\u30DC"
+      characterPortrait: {fileID: 0}
+    - creditText: F@ct
+      characterPortrait: {fileID: 0}
+  - sectionTitle: "\u2015\u2015\u2015\u2015\u2015 Unity \u30A2\u30BB\u30C3\u30C8
+      \u2015\u2015\u2015\u2015\u2015"
+    creditItems:
+    - creditText: Retro RPG Tileset 01
+      characterPortrait: {fileID: 0}
+    - creditText: Easy Transitions
+      characterPortrait: {fileID: 0}
+    - creditText: Free 1 Bit Forest
+      characterPortrait: {fileID: 0}
+    - creditText: White Scape - 1bit asset pack
+      characterPortrait: {fileID: 0}
+    - creditText: Slime Enemy - Pixel Art
+      characterPortrait: {fileID: 0}
+    - creditText: Free Pixel Art FX Package
+      characterPortrait: {fileID: 0}
+  - sectionTitle: "\u3010\u30B2\u30FC\u30E0\u5236\u4F5C\u3011"
+    creditItems:
+    - creditText: "\u79C1"
+      characterPortrait: {fileID: 0}

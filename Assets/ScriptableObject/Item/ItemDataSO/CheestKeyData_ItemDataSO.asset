@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da40ce32b6fe53b4db09e42cbec16146, type: 3}
+  m_Name: CheestKeyData_ItemDataSO
+  m_EditorClassIdentifier: 
+  ItemID: CheestKey
+  ItemName: "\u304B\u304E"
+  Description: "\u6226\u5229\u54C1\u304C\u5165\u3063\u305F\u30C1\u30A7\u30B9\u30C8\u3092\u958B\u304F\u3053\u3068\u304C\u3067\u304D\u308B\u30AB\u30AE\u3002"
+  Icon: {fileID: 1755161284, guid: b85da2602fd80724f9d25b12dc10b105, type: 3}
+  IsPuzzle: 0
+  PuzzlePrefab: {fileID: 0}
+  Ability: {fileID: 0}
+  ItemCountState: {fileID: 11400000, guid: fbabc3c7362a2474885f41ef101d57ef, type: 2}
+  IsStackable: 1
+  IsCollectionItem: 0
+  count: 0

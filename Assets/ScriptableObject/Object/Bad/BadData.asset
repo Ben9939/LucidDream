@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fe8d39e72f022e4c85e9a3b42ab3547, type: 3}
+  m_Name: BadData
+  m_EditorClassIdentifier: 
+  unitID: Bad
+  unitName: "\u5E03\u56E3"
+  dialogStateEntries:
+  - requiredState: {fileID: 0}
+    dialogStateGraph: {fileID: 11400000, guid: 7f52b117f601adb45ac013f7fd9ffda4, type: 2}
+    priority: 0
+  - requiredState: {fileID: 11400000, guid: 0bf0c3122af9a8343a52ebb2d958c1a1, type: 2}
+    dialogStateGraph: {fileID: 11400000, guid: ac3822759e69645419a592be4bd3fab2, type: 2}
+    priority: 1
+  currentDialogStateGraph: {fileID: 0}
+  currentDialogGraph: {fileID: 11400000, guid: c73c203f57744ce40aeda573f92cd8b6, type: 2}
+  states: []

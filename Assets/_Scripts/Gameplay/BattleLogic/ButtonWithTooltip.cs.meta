@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d84c3ee08a011740b905e3d6644bc6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalSprite: {fileID: 1988757010, guid: 9619f9543f553f74ca8e44fa8dc8d975, type: 3}
+  - hoverSprite: {fileID: -991157104, guid: 9619f9543f553f74ca8e44fa8dc8d975, type: 3}
+  - tooltipText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

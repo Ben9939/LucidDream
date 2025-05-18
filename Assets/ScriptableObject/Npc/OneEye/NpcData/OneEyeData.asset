@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 451df885f9b735f4d94818ecd64d2336, type: 3}
+  m_Name: OneEyeData
+  m_EditorClassIdentifier: 
+  unitID: OneEye
+  unitName: "\u307E\u304A\u3046"
+  dialogStateEntries:
+  - requiredState: {fileID: 0}
+    dialogStateGraph: {fileID: 11400000, guid: 430fc68892380394e934e0fec6b6cadf, type: 2}
+    priority: 0
+  - requiredState: {fileID: 11400000, guid: 8cba5a6948993ea4e9f85bc403d7eebf, type: 2}
+    dialogStateGraph: {fileID: 11400000, guid: 0671cb9833344e44e82034ed9298f930, type: 2}
+    priority: 1
+  currentDialogStateGraph: {fileID: 0}
+  currentDialogGraph: {fileID: 0}
+  states: []
+  PortraitPrefabObject: {fileID: 4254655056136935538, guid: a909f09c374561842847dfbd9127273f,
+    type: 3}

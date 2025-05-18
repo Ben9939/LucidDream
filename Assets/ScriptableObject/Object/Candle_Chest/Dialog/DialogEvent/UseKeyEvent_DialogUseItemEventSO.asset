@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e792090c2ab8b4748b186492791e5031, type: 3}
+  m_Name: UseKeyEvent_DialogUseItemEventSO
+  m_EditorClassIdentifier: 
+  AcquiredItems:
+  - {fileID: 11400000, guid: 75f5ceb59e2bfb2439bee0484ae46f54, type: 2}
+  ConsumedItems:
+  - {fileID: 11400000, guid: 01bf4c9ba1ea8474c81e5a9e09eda5fb, type: 2}
+  UnitStateToModify: {fileID: 11400000, guid: 6d7235999f9f846408b6062c0b169a65, type: 2}
+  ScenarioStateToModify: {fileID: 11400000, guid: 83337fcb1d474364da7f62518b19ae27,
+    type: 2}
+  StateModificationValue: 1

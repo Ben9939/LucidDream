@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e792090c2ab8b4748b186492791e5031, type: 3}
+  m_Name: GetPuzzle_DialogUseItemEventSO
+  m_EditorClassIdentifier: 
+  AcquiredItems:
+  - {fileID: 11400000, guid: e6c768ce154703640a866941963b6e25, type: 2}
+  - {fileID: 11400000, guid: ebc07e5480304a345923b7ace424c864, type: 2}
+  - {fileID: 11400000, guid: 34a19131fa747e74aa13a2daafeca687, type: 2}
+  ConsumedItems:
+  - {fileID: 11400000, guid: 75f5ceb59e2bfb2439bee0484ae46f54, type: 2}
+  UnitStateToModify: {fileID: 11400000, guid: fe99354ad2b3719429c755b03e85368d, type: 2}
+  ScenarioStateToModify: {fileID: 11400000, guid: 31524697bae0238428959471349fb638,
+    type: 2}
+  StateModificationValue: 0
